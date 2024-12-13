@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 /data
+
+/faiss-container/wikipedia_202307.index
